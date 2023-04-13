@@ -378,6 +378,9 @@ html{
     .header{
         padding: 2rem;
     }
+    .header #logo{
+        width: 100px;
+    }
     .icons div{
         display: initial;
     }
