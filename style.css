@@ -389,6 +389,13 @@ html{
     background: #e39403;
 }
 
+.mapa {
+    display: flex;
+    justify-content: center;
+    background:var(--third);
+  }
+  
+
 
 /* width */
 ::-webkit-scrollbar {
